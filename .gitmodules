@@ -10,3 +10,6 @@
 [submodule "desktop-pack"]
 	path = desktop-pack
 	url = git@github.com:sjagoe/desktop-pack.git
+[submodule "disorganized-pack"]
+	path = disorganized-pack
+	url = git@github.com:sjagoe/disorganized-pack.git
