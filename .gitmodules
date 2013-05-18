@@ -16,3 +16,6 @@
 [submodule "cython-pack"]
 	path = cython-pack
 	url = git@github.com:sjagoe/cython-pack.git
+[submodule "enaml-pack"]
+	path = enaml-pack
+	url = git@github.com:sjagoe/enaml-pack.git
