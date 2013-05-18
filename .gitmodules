@@ -1,3 +1,9 @@
 [submodule "whitespace-pack"]
 	path = whitespace-pack
 	url = git@github.com:sjagoe/whitespace-pack.git
+[submodule "modeline-pack"]
+	path = modeline-pack
+	url = git@github.com:sjagoe/modeline-pack.git
+[submodule "orgmode-pack"]
+	path = orgmode-pack
+	url = git@github.com:sjagoe/orgmode-pack.git
