@@ -1,3 +1,4 @@
+(live-add-packs '("~/.live-packs/cython-pack"))
 (live-add-packs '("~/.live-packs/desktop-pack"))
 (live-add-packs '("~/.live-packs/disorganized-pack"))
 (live-add-packs '("~/.live-packs/orgmode-pack"))

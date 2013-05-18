@@ -13,3 +13,6 @@
 [submodule "disorganized-pack"]
 	path = disorganized-pack
 	url = git@github.com:sjagoe/disorganized-pack.git
+[submodule "cython-pack"]
+	path = cython-pack
+	url = git@github.com:sjagoe/cython-pack.git
