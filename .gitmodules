@@ -7,3 +7,6 @@
 [submodule "orgmode-pack"]
 	path = orgmode-pack
 	url = git@github.com:sjagoe/orgmode-pack.git
+[submodule "desktop-pack"]
+	path = desktop-pack
+	url = git@github.com:sjagoe/desktop-pack.git
