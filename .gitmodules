@@ -1,0 +1,3 @@
+[submodule "whitespace-pack"]
+	path = whitespace-pack
+	url = git@github.com:sjagoe/whitespace-pack.git
