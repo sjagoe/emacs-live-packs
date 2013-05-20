@@ -7,3 +7,7 @@
 (live-add-packs '("~/.live-packs/unittest-mode"))
 (live-add-packs '("~/.live-packs/whitespace-pack"))
 (live-add-packs '("~/.live-packs/windows-pack"))
+
+(let ((private-pack-dir "~/.live-packs/private-pack"))
+  (if (file-exists-p private-pack-dir)
+      (live-add-packs '(private-pack-dir))))
