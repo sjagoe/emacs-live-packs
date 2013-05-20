@@ -6,3 +6,4 @@
 (live-add-packs '("~/.live-packs/modeline-pack"))
 (live-add-packs '("~/.live-packs/unittest-mode"))
 (live-add-packs '("~/.live-packs/whitespace-pack"))
+(live-add-packs '("~/.live-packs/windows-pack"))

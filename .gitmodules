@@ -22,3 +22,6 @@
 [submodule "unittest-mode"]
 	path = unittest-mode
 	url = git@github.com:sjagoe/unittest-mode.git
+[submodule "windows-pack"]
+	path = windows-pack
+	url = git@github.com:sjagoe/windows-pack.git
