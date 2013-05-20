@@ -19,3 +19,6 @@
 [submodule "enaml-pack"]
 	path = enaml-pack
 	url = git@github.com:sjagoe/enaml-pack.git
+[submodule "unittest-mode"]
+	path = unittest-mode
+	url = git@github.com:sjagoe/unittest-mode.git
