@@ -25,3 +25,6 @@
 [submodule "windows-pack"]
 	path = windows-pack
 	url = git@github.com:sjagoe/windows-pack.git
+[submodule "flycheck-pack"]
+	path = flycheck-pack
+	url = git@github.com:sjagoe/flycheck-pack.git
