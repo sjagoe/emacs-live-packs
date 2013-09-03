@@ -28,3 +28,6 @@
 [submodule "flycheck-pack"]
 	path = flycheck-pack
 	url = git@github.com:sjagoe/flycheck-pack.git
+[submodule "jabber-pack"]
+	path = jabber-pack
+	url = git@github.com:sjagoe/jabber-pack.git
