@@ -1,33 +1,33 @@
 [submodule "whitespace-pack"]
 	path = whitespace-pack
-	url = git@github.com:sjagoe/whitespace-pack.git
+	url = https://github.com/sjagoe/whitespace-pack.git
 [submodule "modeline-pack"]
 	path = modeline-pack
-	url = git@github.com:sjagoe/modeline-pack.git
+	url = https://github.com/sjagoe/modeline-pack.git
 [submodule "orgmode-pack"]
 	path = orgmode-pack
-	url = git@github.com:sjagoe/orgmode-pack.git
+	url = https://github.com/sjagoe/orgmode-pack.git
 [submodule "desktop-pack"]
 	path = desktop-pack
-	url = git@github.com:sjagoe/desktop-pack.git
+	url = https://github.com/sjagoe/desktop-pack.git
 [submodule "disorganized-pack"]
 	path = disorganized-pack
-	url = git@github.com:sjagoe/disorganized-pack.git
+	url = https://github.com/sjagoe/disorganized-pack.git
 [submodule "cython-pack"]
 	path = cython-pack
-	url = git@github.com:sjagoe/cython-pack.git
+	url = https://github.com/sjagoe/cython-pack.git
 [submodule "enaml-pack"]
 	path = enaml-pack
-	url = git@github.com:sjagoe/enaml-pack.git
+	url = https://github.com/sjagoe/enaml-pack.git
 [submodule "unittest-mode"]
 	path = unittest-mode
-	url = git@github.com:sjagoe/unittest-mode.git
+	url = https://github.com/sjagoe/unittest-mode.git
 [submodule "windows-pack"]
 	path = windows-pack
-	url = git@github.com:sjagoe/windows-pack.git
+	url = https://github.com/sjagoe/windows-pack.git
 [submodule "flycheck-pack"]
 	path = flycheck-pack
-	url = git@github.com:sjagoe/flycheck-pack.git
+	url = https://github.com/sjagoe/flycheck-pack.git
 [submodule "jabber-pack"]
 	path = jabber-pack
-	url = git@github.com:sjagoe/jabber-pack.git
+	url = https://github.com/sjagoe/jabber-pack.git
